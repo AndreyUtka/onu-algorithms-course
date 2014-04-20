@@ -1,4 +1,4 @@
-Course algorithms and data structures - ONU
+Course algorithms and data structures
 =======
 
 This repository which contains labs of students who attend the course *algorithms and data structures* in the Odessa National I.I. Mechnikov University.

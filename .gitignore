@@ -1,7 +1,0 @@
-*.dll
-*.pdb
-*.suo
-amichaluik/Algorithms/Algorithms.Sorting/obj/
-amichaluik/Algorithms/Algorithms.SortingTest/obj/Debug/
-amichaluik/Algorithms/packages/
-

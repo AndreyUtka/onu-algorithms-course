@@ -1,0 +1,7 @@
+*.dll
+*.pdb
+*.suo
+Algorithms/Algorithms.Sorting/obj/
+Algorithms/Algorithms.SortingTest/obj/Debug/
+Algorithms/packages/
+

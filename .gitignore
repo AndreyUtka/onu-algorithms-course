@@ -1,0 +1,7 @@
+*.suo
+*.user
+amichaluik/Algorithms/packages/
+amichaluik/Algorithms/Algorithms.Sorting/obj/
+amichaluik/Algorithms/Algorithms.SortingTest/obj/Debug/
+amichaluik/Algorithms/Algorithms.Sorting/bin/
+amichaluik/Algorithms/Algorithms.SortingTest/bin/

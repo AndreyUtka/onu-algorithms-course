@@ -11,5 +11,5 @@ For practical labs we use git, c#.
 **Сourse labs** (will be updated):
 
 1. Insertion sort
-
+2. Merge sort
 

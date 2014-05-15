@@ -1,9 +1,0 @@
-D:\Visual Studio 2012\algorithms\unTest\SortVst\Algorithms.SortVsrTest\obj\Debug\Algorithms.SortVsrTest.csprojResolveAssemblyReference.cache
-D:\Visual Studio 2012\algorithms\unTest\SortVst\Algorithms.SortVsrTest\bin\Debug\Algorithms.SortVsrTest.dll
-D:\Visual Studio 2012\algorithms\unTest\SortVst\Algorithms.SortVsrTest\bin\Debug\Algorithms.SortVsrTest.pdb
-D:\Visual Studio 2012\algorithms\unTest\SortVst\Algorithms.SortVsrTest\bin\Debug\nunit.framework.dll
-D:\Visual Studio 2012\algorithms\unTest\SortVst\Algorithms.SortVsrTest\bin\Debug\SortVst.dll
-D:\Visual Studio 2012\algorithms\unTest\SortVst\Algorithms.SortVsrTest\bin\Debug\SortVst.pdb
-D:\Visual Studio 2012\algorithms\unTest\SortVst\Algorithms.SortVsrTest\bin\Debug\nunit.framework.xml
-D:\Visual Studio 2012\algorithms\unTest\SortVst\Algorithms.SortVsrTest\obj\Debug\Algorithms.SortVsrTest.dll
-D:\Visual Studio 2012\algorithms\unTest\SortVst\Algorithms.SortVsrTest\obj\Debug\Algorithms.SortVsrTest.pdb

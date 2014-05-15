@@ -1,0 +1,5 @@
+D:\Visual Studio 2012\algorithms\unTest\SortVst\SortVst\obj\Debug\Algorithms.SortVst.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2012\algorithms\unTest\SortVst\SortVst\bin\Debug\SortVst.dll
+D:\Visual Studio 2012\algorithms\unTest\SortVst\SortVst\bin\Debug\SortVst.pdb
+D:\Visual Studio 2012\algorithms\unTest\SortVst\SortVst\obj\Debug\SortVst.dll
+D:\Visual Studio 2012\algorithms\unTest\SortVst\SortVst\obj\Debug\SortVst.pdb

@@ -9,9 +9,6 @@ amichaluik/Algorithms/Algorithms.Sorting/obj/
 amichaluik/Algorithms/Algorithms.Sorting/bin/
 amichaluik/Algorithms/Algorithms.SortingTest/bin/
 amichaluik/Algorithms/Algorithms.SortingTest/obj/Debug/
-BelinskiiR\SortVst\packages
-BelinskiiR\SortVst\Algorithms.SortVsrTest\obj\Debug
-BelinskiiR\SortVst\SortVst\obj\Debug
 ZakrevskijjK/.nuget
 ZakrevskijjK/packages
 ZakrevskijjK/Algorithms/Algorithms.sln.ide/
@@ -23,3 +20,6 @@ ZakrevskijjK/Algorithms.Sorting/bin/
 ZakrevskijjK/Algorithms.Sorting/obj/
 ZakrevskijjK/Algorithms.SortingTest/obj/Debug/
 ZakrevskijjK/Algorithms.SortingTest/bin/
+BelinskiiR/SortVst/packages
+BelinskiiR/SortVst/Algorithms.SortVsrTest/obj/Debug
+BelinskiiR/SortVst/SortVst/obj/Debug

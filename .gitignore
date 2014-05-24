@@ -1,5 +1,6 @@
 *.suo
 *.user
+<<<<<<< HEAD
 StankovK/packages/
 StankovK/ClassLibrary1/obj/
 StankovK/SortTest/obj/Debug/
@@ -23,3 +24,9 @@ ZakrevskijjK/Algorithms.SortingTest/bin/
 BelinskiiR/SortVst/packages
 BelinskiiR/SortVst/Algorithms.SortVsrTest/obj/Debug
 BelinskiiR/SortVst/SortVst/obj/Debug
+=======
+[Bb]in/
+[Oo]bj/
+[Pp]ackages/
+
+>>>>>>> 5ae5b0896991da8a7183879a4faa1ba88f67d31c

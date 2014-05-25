@@ -1,32 +1,5 @@
 *.suo
 *.user
-<<<<<<< HEAD
-StankovK/packages/
-StankovK/ClassLibrary1/obj/
-StankovK/SortTest/obj/Debug/
-amichaluik/Algorithms/packages/
-amichaluik/Algorithms/Algorithms.sln.ide/
-amichaluik/Algorithms/Algorithms.Sorting/obj/
-amichaluik/Algorithms/Algorithms.Sorting/bin/
-amichaluik/Algorithms/Algorithms.SortingTest/bin/
-amichaluik/Algorithms/Algorithms.SortingTest/obj/Debug/
-ZakrevskijjK/.nuget
-ZakrevskijjK/packages
-ZakrevskijjK/Algorithms/Algorithms.sln.ide/
-ZakrevskijjK/Algorithms/Algorithms.Sorting/obj/
-ZakrevskijjK/Algorithms/Algorithms.Sorting/bin/
-ZakrevskijjK/Algorithms/Algorithms.SortingTest/bin/
-ZakrevskijjK/Algorithms/Algorithms.SortingTest/obj/Debug/
-ZakrevskijjK/Algorithms.Sorting/bin/
-ZakrevskijjK/Algorithms.Sorting/obj/
-ZakrevskijjK/Algorithms.SortingTest/obj/Debug/
-ZakrevskijjK/Algorithms.SortingTest/bin/
-BelinskiiR/SortVst/packages
-BelinskiiR/SortVst/Algorithms.SortVsrTest/obj/Debug
-BelinskiiR/SortVst/SortVst/obj/Debug
-=======
 [Bb]in/
 [Oo]bj/
 [Pp]ackages/
-
->>>>>>> 5ae5b0896991da8a7183879a4faa1ba88f67d31c

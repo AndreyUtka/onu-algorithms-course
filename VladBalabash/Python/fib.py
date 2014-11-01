@@ -11,11 +11,11 @@ def fib_m2(n):
      s_time=current_time()
      for i in range(n):
            a,b=b,a+b
-     print ('{0} during {1} microsecond'.format(a,current_time()-s_time))
+     print ('{0} during {1} microseconds'.format(a,current_time()-s_time))
 print(current_time())
 fib_m2(100)
 s_time=current_time()
-print ('{0} during {1} micrisecond'.format(fib(100),current_time()-s_time))     
+print ('{0} during {1} micriseconds'.format(fib(100),current_time()-s_time))     
 #for i in range(40):
 #    t_start=time.time()
 #    f=fib(i)

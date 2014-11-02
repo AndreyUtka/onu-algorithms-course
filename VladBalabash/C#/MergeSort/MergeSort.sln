@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSort", "MergeSort\MergeSort.csproj", "{6184FC14-BE45-449B-A93B-33C2201D985D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSort.Test", "MergeSort.Test\MergeSort.Test.csproj", "{D07EC57F-1D63-4B31-BBD3-A141BEEAD18D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6184FC14-BE45-449B-A93B-33C2201D985D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6184FC14-BE45-449B-A93B-33C2201D985D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6184FC14-BE45-449B-A93B-33C2201D985D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6184FC14-BE45-449B-A93B-33C2201D985D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D07EC57F-1D63-4B31-BBD3-A141BEEAD18D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D07EC57F-1D63-4B31-BBD3-A141BEEAD18D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D07EC57F-1D63-4B31-BBD3-A141BEEAD18D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D07EC57F-1D63-4B31-BBD3-A141BEEAD18D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

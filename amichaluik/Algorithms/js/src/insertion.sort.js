@@ -2,7 +2,7 @@
 
 /**
  * Insertion Sort with O(n^2) complexity
- *
+ * Loop invariant is array[1..i-1]
  * @param {Array} input array
  * @param {Function} comparator
  * @returns {Array} bubble sorted array

@@ -15,7 +15,10 @@ var mergeSort = (function () {
             left = array.slice(0, midpoint),
             right = array.slice(midpoint, array.length);
 
-        return merge(sort(left, comparator), sort(right, comparator), comparator);
+        left = sort(left, comparator);
+        right = sort(right, comparator);
+
+        return merge(left, right, comparator);
     }
 
     /**

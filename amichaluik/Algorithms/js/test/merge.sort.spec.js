@@ -3,8 +3,8 @@ var expect = require('chai').expect;
 
 describe('Merge Sort', function () {
     it('should be sorted array by ascending', function () {
-        var notSortedArray = [5, 10, 9, 0, 6, 17];
-        var sortedArray = [0, 5, 6, 9, 10, 17];
+        var notSortedArray = [5, 10, 9, 0, 6, 17, 3];
+        var sortedArray = [0, 3, 5, 6, 9, 10, 17];
         var comparator = function (x, y) {
             return x - y;
         };

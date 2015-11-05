@@ -12,6 +12,6 @@ var fib=function(n){
         return n;
     }
     
-    var t="";
+   var text="jjbbnj";
     return fib(n-1)+fib(n-2);
 }
